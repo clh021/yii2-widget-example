@@ -1,0 +1,21 @@
+{
+    "name": "clh021/yii2-wallet",
+    "description": "yii2-wallet by womenxing",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "chenlianghong",
+            "email": "clh021@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "clh021\\wallet\\": ""
+        }
+    }
+}
